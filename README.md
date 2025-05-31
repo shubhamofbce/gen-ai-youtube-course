@@ -109,20 +109,6 @@ Explore essential tools that can help speed up development.
 
 ## 📂 Folder Structure
 
-```
-
-genai-course/
-│
-├── module-1-openai-api/
-├── module-2-rag-manual/
-├── module-3-agents/
-├── module-4-ragas/
-├── module-5-fine-tuning/
-├── module-6-production/
-├── module-7-tools/
-└── README.md
-
-```
 
 Each folder contains code notebooks, scripts, and supporting files for its respective module.
 
@@ -137,9 +123,9 @@ This course is open and growing with the community.
 
 ## 📢 Stay Updated
 
-- YouTube Channel: *[Insert Channel Link]*  
-- Twitter/X: *[Insert Handle]*  
-- LinkedIn: *[Insert Profile]*
+- YouTube Channel: *[https://www.youtube.com/playlist?list=PLEbgFbkEUJKhWutEMOA7aOuD-UJOXMmtt]*  
+- Twitter/X: *[https://x.com/shubhamofbce]*  
+- LinkedIn: *[https://www.linkedin.com/in/shubh17cs]*
 
 ---
 
